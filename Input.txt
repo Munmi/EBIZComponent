@@ -1,0 +1,3 @@
+Inputs:
+1) Copy all the servers to serverlist file
+2) Provide Valid Optum Email Address 
