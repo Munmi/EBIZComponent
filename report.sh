@@ -1,4 +1,8 @@
 #!/usr/bin/bash
+########################################################
+#SCRIPT TO CHECK THE RUNNING EBIZ AND SITEMINDER PROCESS
+#WRITTEN BY: MUNMI UPADHYAY
+########################################################
 
 echo "Enter Your EMAIL ID"
 echo "######################################
