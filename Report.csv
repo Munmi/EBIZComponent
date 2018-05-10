@@ -1,0 +1,136 @@
+SERVER,EBIZCOMPONENT,WAS,JBOSS,APACHE,SITEMINDER
+APSRP0163,Yes ,Yes ,No ,Yes ,Yes
+APSRP0164,Yes ,Yes ,No ,Yes ,Yes
+APSRP0165,Yes ,No ,No ,Yes ,Yes
+APSRP0166,Yes ,Yes ,No ,Yes ,Yes
+APSRP0189,No,No,No,No,No
+APSRP0552,Yes ,Yes ,No ,Yes ,No
+APSRP0553,Yes ,Yes ,No ,No ,No
+APSRP0558,No,No,No,No,No
+APSRP0559,No,No,No,No,No
+APSRP0560,Yes ,Yes ,No ,Yes ,No
+APSRP0561,Yes ,Yes ,No ,Yes ,No
+APSRP0562,Yes ,Yes ,No ,Yes ,No
+APSRP0686,No,No,No,No,No
+APSRP0687,No,No,No,No,No
+APSRP0688,No,No,No,No,No
+APSRP0689,No,No,No,No,No
+APSRP0690,No,No,No,No,No
+APSRP0691,No,No,No,No,No
+APSRP0725,No,No,No,No,No
+APSRP0726,No,No,No,No,No
+APSRP0763,No,No,No,No,No
+APSRP0764,No,No,No,No,No
+APSRP0765,No,No,No,No,No
+APSRP0766,No,No,No,No,No
+APSRP0870,No,No,No,No,No
+APSRP1053,No ,No ,No ,No ,No
+APSRP1054,No ,No ,No ,No ,No
+APSRP1056,Yes ,Yes ,No ,Yes ,Yes
+APSRP1057,Yes ,Yes ,No ,Yes ,Yes
+APSRP1058,Yes ,Yes ,No ,Yes ,Yes
+APSRP1059,Yes ,Yes ,No ,Yes ,Yes
+ETLRP0009,No,No,No,No,No
+ETLRP0010,No,No,No,No,No
+ETLRP0011,No,No,No,No,No
+ETLRP0012,No,No,No,No,No
+APSR0047,Yes ,No ,Yes ,No ,No
+APSR0051,No ,No ,No ,No ,No
+APSRP0046,No,No,No,No,No
+APSRP0047,No,No,No,No,No
+APSRP0048,No,No,No,No,No
+APSRP0104,No,No,No,No,No
+APSRP0105,No,No,No,No,No
+APSRP0113,Yes ,Yes ,No ,Yes ,No
+APSRP0116,Yes ,Yes ,No ,Yes ,Yes
+APSRP0117,Yes ,Yes ,No ,Yes ,Yes
+APSRP0118,Yes ,Yes ,No ,Yes ,Yes
+APSRP0119,Yes ,Yes ,No ,Yes ,Yes
+APSRP0191,No,No,No,No,No
+APSRP0285,Yes ,Yes ,No ,Yes ,No
+APSRP0286,Yes ,Yes ,No ,Yes ,No
+APSRP0287,Yes ,Yes ,No ,Yes ,No
+APSRP0288,Yes ,Yes ,No ,Yes ,No
+APSRP0289,Yes ,Yes ,No ,Yes ,No
+APSRP0290,Yes ,Yes ,No ,Yes ,No
+APSRP0307,Yes ,Yes ,No ,Yes ,Yes
+APSRP0308,Yes ,Yes ,No ,Yes ,Yes
+APSRP0309,Yes ,Yes ,No ,Yes ,Yes
+APSRP0310,Yes ,Yes ,No ,Yes ,Yes
+APSRP0311,Yes ,No ,No ,Yes ,Yes
+APSRP0364,Yes ,Yes ,No ,Yes ,No
+APSRP0544,No,No,No,No,No
+APSRP0545,No,No,No,No,No
+APSRP0546,No,No,No,No,No
+APSRP0548,Yes ,Yes ,No ,No ,No
+APSRP0549,Yes ,Yes ,No ,No ,No
+APSRP0550,Yes ,Yes ,No ,No ,No
+APSRP0551,Yes ,Yes ,No ,Yes ,No
+APSRP6445,No,No,No,No,No
+APSRP6446,No,No,No,No,No
+LDPRP0016,No,No,No,No,No
+APSRS0170,No,No,No,No,No
+APSRS0299,No,No,No,No,No
+APSRS0414,No,No,No,No,No
+APSRS0451,Yes ,Yes ,No ,Yes ,No
+APSRS0453,Yes ,Yes ,No ,Yes ,No
+APSRS0454,Yes ,Yes ,No ,Yes ,No
+APSRS0455,Yes ,Yes ,No ,Yes ,No
+APSRS0461,No,No,No,No,No
+APSRS0462,No,No,No,No,No
+APSRS0463,No,No,No,No,No
+APSRS0464,No,No,No,No,No
+APSRS0526,No ,No ,No ,No ,No
+APSRS0527,No ,No ,No ,No ,No
+APSRS0528,No ,No ,No ,No ,No
+APSRS0529,No ,No ,No ,No ,No
+APSRS0149,Yes ,Yes ,No ,Yes ,Yes
+APSRS0150,Yes ,Yes ,No ,Yes ,Yes
+APSRS0151,Yes ,Yes ,No ,Yes ,Yes
+APSRS0152,Yes ,Yes ,No ,Yes ,Yes
+APSRS0169,No,No,No,No,No
+APSRS0388,No,No,No,No,No
+APSRS0389,No,No,No,No,No
+APSRS0390,Yes ,Yes ,No ,Yes ,No
+APSRS0391,Yes ,Yes ,No ,Yes ,No
+APSRS0392,Yes ,Yes ,No ,Yes ,No
+APSRS0409,Yes ,Yes ,No ,Yes ,No
+APSRS0412,Yes ,Yes ,No ,Yes ,No
+APSRS0549,No,No,No,No,No
+APSRS0550,No,No,No,No,No
+APSRS0551,No,No,No,No,No
+APSRS0552,No,No,No,No,No
+APSRS0553,No,No,No,No,No
+APSRS0554,No,No,No,No,No
+APSRS0675,No,No,No,No,No
+APSRS0676,No,No,No,No,No
+APSRS0680,No,No,No,No,No
+APSRS0681,No,No,No,No,No
+APSRS1037,No ,No ,No ,No ,No
+APSRS1078,Yes ,Yes ,No ,Yes ,Yes
+APSRS1079,Yes ,Yes ,No ,Yes ,Yes
+APSRS1080,Yes ,Yes ,No ,Yes ,Yes
+APSRS1081,Yes ,Yes ,No ,Yes ,Yes
+ETLRS0009,No,No,No,No,No
+ETLRS0010,No,No,No,No,No
+ETLRS0011,No,No,No,No,No
+ETLRS0013,No,No,No,No,No
+APSRS0225,Yes ,Yes ,No ,Yes ,Yes
+APSRS0226,Yes ,Yes ,No ,Yes ,Yes
+APSRS0227,Yes ,Yes ,No ,Yes ,Yes
+APSRS0245,No,No,No,No,No
+APSRS0246,No,No,No,No,No
+APSRS0286,Yes ,Yes ,No ,Yes ,No
+APSRS0287,Yes ,Yes ,No ,Yes ,No
+APSRS0457,Yes ,Yes ,No ,Yes ,No
+APSRS0458,Yes ,Yes ,No ,Yes ,No
+APSRS1276,Yes ,Yes ,No ,Yes ,Yes
+APSRS1277,Yes ,Yes ,No ,Yes ,Yes
+APSRS1278,Yes ,Yes ,No ,Yes ,Yes
+APSRS1311,No ,No ,No ,No ,No
+APSRS1312,No ,No ,No ,No ,No
+APSRS1318,No,No,No,No,No
+APSRS1470,No,No,No,No,No
+APSRS1471,No,No,No,No,No
+APSRS1654,No,No,No,No,No
+APSRS1655,No,No,No,No,No
